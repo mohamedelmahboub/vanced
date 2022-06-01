@@ -1,0 +1,186 @@
+{
+	"General": {
+		"background_startColor": "#FFFFFF",
+		"background_endColor": "#FFFFFF",
+		"rateText": "Rate",
+		"privacyText": "Privacy",
+		"privacyURL": "https://www.google.com",
+		"shareText": "Share",
+		"activity_1_top_ad_network": "max",
+		"activity_1_top_ad_type": "banner",
+		"activity_1_bottom_ad_network": "max",
+		"activity_1_bottom_ad_type": "banner",
+		"activity_2_bottom_ad_network": "max",
+		"activity_2_bottom_ad_type": "banner",
+		"show_update": false,
+		"update_title": "Please update",
+		"update_text": "This is an old version of the app",
+		"update_link": "https://www.google.com"
+	},
+	
+	"Images": {
+		"manImage" : "",
+		"womanImage" : "",
+		"startImage" : "",
+		"rateImage" : "",
+		"privacyImage" : "",
+		"shareImage" : ""
+	},
+	
+	"Ads": {
+		"admobBanner": "ca-app-pub-3940256099942544/6300978111",
+		"facebookBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+		"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"facebook_interstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+		"admobNative" : "ca-app-pub-3940256099942544/2247696110",
+		"facebookNative" : "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		"facebookNativeBanner" : "IMG_16_9_APP_INSTALL#299010724885089_388376945948466",
+		"mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+        "mopub_inter": "24534e1901884e398f1253216226017e",
+        "mopub_native": "11a17b188668469fb0412708c3d16813",
+		"max_banner": "6db1491f2e21970c",
+        "max_inter": "812b82d9e0c7cb7f",
+        "max_native": "bf8127aa8e8c3677",
+		"intersitial_ad_network": "mopub",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 1
+	},
+	
+	"Posts": {
+		"postAdNetwork" : "mopub",
+		"postAdShowAfter" : 3,
+		"SliderList" : [
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"title" : "test1",
+				"text" : "text1",
+				"buttonText" : "button",
+				"buttonUrl" : "https://www.google.com"
+			},
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"title" : "test2",
+				"text" : "text2",
+				"buttonText" : "button2",
+				"buttonUrl" : "https://www.facebook.com"
+			}
+		],
+		"PostsList" : [
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "max",
+						"adType": "banner",
+						"title": "para1",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "image",
+						"extraLink": "https://imagnet.space/apps/bilal/app01/img/1.png",
+						"extraUrl": "https://www.google.com"
+					},
+					{
+						"adNetwork": "max",
+						"adType": "banner",
+						"title": "para2",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "video",
+						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para1",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "image",
+						"extraLink": "https://imagnet.space/apps/bilal/app01/img/1.png",
+						"extraUrl": "https://www.google.com"
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para2",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "video",
+						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para1",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "image",
+						"extraLink": "https://imagnet.space/apps/bilal/app01/img/1.png",
+						"extraUrl": "https://www.google.com"
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para2",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "video",
+						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para1",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "image",
+						"extraLink": "https://imagnet.space/apps/bilal/app01/img/1.png",
+						"extraUrl": "https://www.google.com"
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para2",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "video",
+						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para1",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "image",
+						"extraLink": "https://imagnet.space/apps/bilal/app01/img/1.png",
+						"extraUrl": "https://www.google.com"
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "para2",
+						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"extraType": "video",
+						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"extraUrl": ""
+					}
+				]
+			}
+		]
+	}
+}
