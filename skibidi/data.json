@@ -1,7 +1,7 @@
 {
     "ads": [
         {
-        "active_ads": "true",
+        "active_ads": "false",
         "network": "fan",
         "one_signal": "63a4e8fe-c5f8-44ec-916b-19cbb83f0e7a",
         "max_ban": "41520d44e3d06b49",
