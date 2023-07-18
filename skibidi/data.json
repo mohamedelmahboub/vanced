@@ -15,7 +15,7 @@
         }
     ],
     "pins": [
-        "Arcane,https://a.d-cd.net/tkak5ehDU2lOyh1C0ana_Gp5sEE-960.jpg",
+        "Skibidi ,https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/1.png",
         "Celebrities,https://9asso.github.io/apps/universalfakecall/pins/f.png",
         "Politicians,https://9asso.github.io/apps/universalfakecall/pins/b.png",
         "Influencers,https://9asso.github.io/apps/universalfakecall/pins/c.png",
@@ -29,12 +29,12 @@
     ],
     "data" : [
         {
-          "name" : "Viktor",
-          "theme" : "",
-          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Viktor_OriginalSquare.png",
+          "name" : "Skibidi Toilet",
+          "theme" : "Skibidi",
+          "img" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/1.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          "video" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/skibid.mp4",
+          "live" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/skibid.mp4"
         },
         {
           "name" : "Smeech",
