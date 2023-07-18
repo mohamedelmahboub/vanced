@@ -33,8 +33,8 @@
           "theme" : "Skibidi",
           "img" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/1.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "video" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/skibid.mp4",
-          "live" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/skibid.mp4"
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
           "name" : "Smeech",
