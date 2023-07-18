@@ -15,7 +15,7 @@
         }
     ],
     "pins": [
-        "Skibidi,https://a.d-cd.net/tkak5ehDU2lOyh1C0ana_Gp5sEE-960.jpg",
+        "Skibidi,https://incrediboxgame.co/upload/imgs/skibidi-toilet.png",
         "Celebrities,https://9asso.github.io/apps/universalfakecall/pins/f.png",
         "Politicians,https://9asso.github.io/apps/universalfakecall/pins/b.png",
         "Influencers,https://9asso.github.io/apps/universalfakecall/pins/c.png",
@@ -45,7 +45,7 @@
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "skib dia",
+          "name" : "Skibidi toillet",
           "theme" : "Skibidi",
           "img" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/1.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
@@ -53,33 +53,33 @@
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Margot",
+          "name" : "cameraman",
           "theme" : "Skibidi",
-          "img" : "https://raw.githubusercontent.com/mohamedelmahboub/vanced/main/skibidi/1.png",
+          "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06965fe1-0c1a-444d-8d16-0c28ab80af80/de9zi6d-2b6bcdff-4478-4ade-8dbe-70d4405ac581.jpg/v1/fit/w_375,h_408,q_70,strp/cameraman_by_quicksilvercat_de9zi6d-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODM2IiwicGF0aCI6IlwvZlwvMDY5NjVmZTEtMGMxYS00NDRkLThkMTYtMGMyOGFiODBhZjgwXC9kZTl6aTZkLTJiNmJjZGZmLTQ0NzgtNGFkZS04ZGJlLTcwZDQ0MDVhYzU4MS5qcGciLCJ3aWR0aCI6Ijw9NzY5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5g38j_vQZTDX86mZa6AThweSxNSmatZWalp0oqDMz1E",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Heimerdinger",
+          "name" : "holy toilet",
           "theme" : "Skibidi",
-          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20150402220126",
+          "img" : "https://static.wikia.nocookie.net/skibidi-toilet-official/images/5/52/Holy_Skibidi_Toilet.png/revision/latest?cb=20230529094556",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Ekko",
+          "name" : "DJ Toilet",
           "theme" : "Skibidi",
-          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Ekko_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20151218185247",
+          "img" : "https://files.cults3d.com/uploaders/14013694/illustration-file/3cf2a82d-4a01-4080-9752-ec90cfd44e43/2023-06-01_20-56-34.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Caitlyn",
+          "name" : "G Man Skibidi Toilet",
           "theme" : "Skibidi",
-          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20150402215548",
+          "img" : "https://steamuserimages-a.akamaihd.net/ugc/2033983734567549235/08204EA299C361C14FE95412FD88090A34DBABA9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
