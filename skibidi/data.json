@@ -30,7 +30,7 @@
     "data" : [
         {
           "name" : "Viktor",
-          "theme" : "Arcane",
+          "theme" : "",
           "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Viktor_OriginalSquare.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
